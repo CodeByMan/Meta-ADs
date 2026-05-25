@@ -34,15 +34,9 @@
 
 ## 📸 Project Screenshots
 
-> Add your screenshots inside `docs/screenshots/` using the filenames below. If the files are not added, GitHub will show broken image placeholders.
-
-Homepage / Login
-
-![Login](docs/screenshots/login.png)
-
 | Login | Dashboard |
 |---|---|
-|![Ads Library](docs/screenshots/ads-library.png) | ![Dashboard](docs/screenshots/dashboard.png) |
+|![Login](docs/screenshots/login.png) | ![Dashboard](docs/screenshots/dashboard.png) |
 
 ---
 
